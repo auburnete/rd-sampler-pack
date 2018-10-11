@@ -2,13 +2,49 @@
 <html>
 <head>
 	  <meta charset="utf-8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
 	  <title>Rhythm Doctor Custom Levels Sampler Pack</title>
+	  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
+	  <link rel="stylesheet" href="style.css">
+
+
 	  <script src="urls.js"></script>
 	  <script src="index.js"></script>
 </head>
 <body>
-	<h1>Rhythm Doctor Custom Levels Sampler Pack</h1>
-	<button type="button" onclick="on_click()">Click Me!</button>
-	<div id="message"></div>
+	<section class="hero is-dark is-fullheight">
+		<div class="hero-body">
+			<div class="container">
+				<div class="columns">
+					<div class="column">
+						<h1 class="title">
+							Rhythm Doctor Custom Levels Sampler Pack
+						</h1>
+
+						<h2 class="subtitle">
+							<p>
+							Not sure where to start with Rhythm Doctor custom levels? Grab a sampler pack here!
+							Sampler packs consist of 12 levels that offer a variety of difficulties.
+							</p>
+								
+							<p>
+							For more levels, have a look at the <a class="sheet" href="https://docs.google.com/spreadsheets/d/1UxLF9lYI6lpbeyXLNfJ3xAlJ7v41EsL1KuFsiVuo_Iw/edit#gid=0">
+								full spreadsheet</a> of levels, or the #level-showcase channel.
+							</p>
+						</h2>
+					</div>
+					<div class="column">
+						<div class="control has-text-centered">
+							<a id="thebutton" class = "button is-link is-danger" type="button" onclick="on_click()">GET SAMPLE PACK</a>
+								<div id="message">
+								</div>
+						</div>
+						
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</section>
 </body>
 </html>
