@@ -22,3 +22,7 @@
 .sheet {
 	color: #3273dc !important;
 }
+
+.invisible {
+	visibility: hidden;
+}
