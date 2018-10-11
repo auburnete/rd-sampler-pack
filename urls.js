@@ -1,7 +1,1 @@
-const urls = [
-	"https://my.mixtape.moe/bnkhev.zip",
-	"https://my.mixtape.moe/oqifgq.zip",
-	"https://my.mixtape.moe/jwyvzv.zip",
-	"https://my.mixtape.moe/bvlprv.zip",
-	"https://my.mixtape.moe/nylffh.zip"
-]
+const urls = ["https://my.mixtape.moe/aqypow.zip", "https://my.mixtape.moe/nahdiv.zip", "https://my.mixtape.moe/nvfpox.zip", "https://my.mixtape.moe/zkpsmi.zip", "https://my.mixtape.moe/rutrgo.zip", "https://my.mixtape.moe/mfgewh.zip", "https://my.mixtape.moe/lpttxe.zip", "https://my.mixtape.moe/znappj.zip", "https://my.mixtape.moe/bigwwp.zip", "https://my.mixtape.moe/ovrsoo.zip", "https://my.mixtape.moe/vdfjya.zip", "https://my.mixtape.moe/xpqhqu.zip", "https://my.mixtape.moe/bzmjzp.zip", "https://my.mixtape.moe/vrhmcw.zip", "https://my.mixtape.moe/vqreyv.zip", "https://my.mixtape.moe/cvufie.zip", "https://my.mixtape.moe/bnhnqh.zip", "https://my.mixtape.moe/drmjlb.zip", "https://my.mixtape.moe/myepvm.zip", "https://my.mixtape.moe/bgyexd.zip"];
