@@ -10,5 +10,6 @@ const make_link = () => {
 const on_click = () => {
 	document.getElementById("message").classList.remove("invisible");
 	document.getElementById("thebutton").innerText = "...";
-	setTimeout(make_link, 5000);
+	let timeout = Math.round(3000 + (Math.random() * 2000));
+	setTimeout(make_link, timeout);
 }
