@@ -3,7 +3,7 @@ const make_link = () => {
 	document.getElementById("message").classList.add("invisible");
 	var button = document.getElementById("thebutton");
 	button.href = rand;
-	button.on_click = "";
+	button.setAttribute("onclick", "ga('send', 'event', { eventCategory: 'Download', eventAction: 'Click', eventLabel: 'Page', eventValue: 50}); return true;");
 	button.innerHTML = "DOWNLOAD";
 }
 
